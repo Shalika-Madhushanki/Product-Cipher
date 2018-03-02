@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Product Cipher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Product_Cipher_jar</output-path>
+    <root id="archive" name="Product Cipher.jar">
+      <element id="module-output" name="Product Cipher" />
+    </root>
+  </artifact>
+</component>
